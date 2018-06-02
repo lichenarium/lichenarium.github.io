@@ -1037,11 +1037,11 @@ h5, h6 {
   font-family: Georgia, Palatino, "Palatino Linotype", Times, "Times New Roman", serif; }
 
 a {
-  color: #0000ff;
+  color: #2475ff;
   text-decoration: none;
   line-height: inherit; }
   a:hover {
-    color: #cc00cc; }
+    color: #8989fe; }
   a img {
     border: none; }
 
@@ -1098,7 +1098,7 @@ input[type=text] {
 .smallbtn {
   display: inline-block;
   margin: .1em;
-  color: #0000ff;
+  color: #2475ff;
   padding: 0.3125rem 0.625rem;
   margin: 0.1em;
   font-size: 0.875em;
@@ -1182,7 +1182,7 @@ h3 .date, h4 .date {
     margin: .5em .5em .5em 0;
     color: #ffffff; }
     .title-bar button:hover {
-      color: #ff99ff; }
+      color: #ffffff; }
   .title-bar img {
     align-self: center; }
   .title-bar > a, .title-bar > img {
@@ -1211,7 +1211,7 @@ h3 .date, h4 .date {
   .top-bar a {
     color: #ffffff; }
     .top-bar a:hover {
-      color: #ff99ff; }
+      color: #ffffff; }
   .top-bar .logo {
     display: inline-block; }
   .top-bar .menu {
@@ -1595,7 +1595,7 @@ h3 .date, h4 .date {
     .thumbnails .column .card:hover {
       background-color: rgba(68,68,68,0.600); }
       .thumbnails .column .card:hover h1, .thumbnails .column .card:hover h2, .thumbnails .column .card:hover h3, .thumbnails .column .card:hover h4, .thumbnails .column .card:hover h5, .thumbnails .column .card:hover h6 {
-        color: #0000ff; }
+        color: #2475ff; }
       .thumbnails .column .card:hover .thumb img {
         transform: scale(1.05); }
     .thumbnails .column .card .caption {
@@ -1814,17 +1814,17 @@ h3 .date, h4 .date {
     #tag-cloud .tag-cloud a.tag {
       display: inline-block;
       margin: .1em;
-      color: #0000ff;
+      color: #2475ff;
       padding: .1em .5em;
       font-size: 0.6875em; }
       #tag-cloud .tag-cloud a.tag:hover span {
-        color: #cc00cc;
+        color: #8989fe;
         text-decoration: underline; }
       #tag-cloud .tag-cloud a.tag em {
         padding: 0 .4em;
         font-size: .8em;
         border-radius: .4em;
-        background-color: #0000ff;
+        background-color: #2475ff;
         font-style: normal; }
       #tag-cloud .tag-cloud a.tag sup {
         opacity: 0.5;
@@ -1917,9 +1917,9 @@ h3 .date, h4 .date {
 .footer {
   color: #ffffff; }
   .footer a {
-    color: #0000ff; }
+    color: #2475ff; }
     .footer a:hover {
-      color: #cc00cc; }
+      color: #8989fe; }
   .footer footer {
     padding: 0.625rem 0;
     text-align: center;
